@@ -1,9 +1,0 @@
-Key Responsibilities
-Providing sustain engineering for existing software releases
-Debugging,Analysing,writing code and verify fixes
-Creating all supporting documentation of code changes and fixes
-Adding new feature to existing product.
-
-
-Software engineer with a focus on distributed computing. 
-Passionate about tackling challenging architectural and scalability problems. Particularly interested in working on data intensive applications.
