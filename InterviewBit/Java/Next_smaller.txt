@@ -1,0 +1,6 @@
+Logic:
+1)Find the position of the first increasing digit.
+2)Find the position of the next lower digit than the current digit from the right sequence.
+3)Swap those two digits.
+4)sort the right sequence in descending order.
+
